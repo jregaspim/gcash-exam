@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: gcash-exam
+
+voucher:
+  api:
+    url: https://mynt-exam.mocklab.io
+    key: apiKey
